@@ -44,3 +44,14 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
+
+.glyphicon, .glyphicon-plus  {
+    position: relative;
+    top: 12px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0;
+    -webkit-font-smoothing: antialiased;
+}
